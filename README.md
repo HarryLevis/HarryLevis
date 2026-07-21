@@ -6,7 +6,7 @@ Self-studying Physical AI / Robot Learning. Everything is built and documented i
 | | |
 |---|---|
 | GPU | RTX 3070 |
-| OS | Ubuntu 22.04 (dual boot) |
+| OS | Ubuntu 22.04 |
 | Stack | PyTorch / Gymnasium / MuJoCo / Docker / W&B |
 
 ## Roadmap
