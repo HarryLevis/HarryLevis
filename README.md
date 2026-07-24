@@ -30,4 +30,4 @@ Making COBOL → Java modernization measurable. Built and documented in public.
 
 ## Links
 
-📝 Build log: [[新博客 URL]  ](https://harry-levis-ai-agent.hatenablog.com/)
+📝 Build log: [[Levis's COBOL-to-Java Modernization Blog]  ](https://harry-levis-ai-agent.hatenablog.com/)
